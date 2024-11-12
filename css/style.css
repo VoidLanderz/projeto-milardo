@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.barra-navegacao {
+    background-color: rgb(255, 214, 160);
+}
+
+#barra-navegacao li {
+    color: #8e4700;
+    transition: all 0.5s;
+}
+
+#barra-navegacao li a:hover {
+    color: #ff8001;
+}
+
+#barra-navegacao button {
+    background-color: #8e4700;
+    border-radius: 8px;
+    color: #FFF;
+}
